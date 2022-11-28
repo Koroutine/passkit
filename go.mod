@@ -1,4 +1,4 @@
-module passkit
+module github.com/koroutine/passkit
 
 go 1.17
 
